@@ -7,7 +7,7 @@ metadata:
   title: DeckCraft
   description: PowerPoint-style presentation editor that runs in your browser
   icon: https://raw.githubusercontent.com/beclab/deckcraft/main/assets/app-icon/hicolor/256x256/apps/ai.storyteller.deckcraft.png
-  version: 0.1.0
+  version: 0.1.1
   categories:
     - Utilities_v112
     - Creativity
